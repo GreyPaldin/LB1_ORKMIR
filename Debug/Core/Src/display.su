@@ -1,0 +1,10 @@
+display.c:39:6:Clear_matrix	16	static
+display.c:48:6:Display_Write_1	16	static
+display.c:78:6:Way_Run	16	static
+display.c:127:5:Callyzi_Car	32	static
+display.c:166:6:Danger_spawn	104	static
+display.c:172:5:Danger_offset	24	static
+display.c:200:6:Show_matrix	304	static
+display.c:251:6:Game_Over	2072	static
+display.c:288:6:Cloud_2	192	static
+display.c:472:6:Display_Test	2064	static
